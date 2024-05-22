@@ -114,7 +114,7 @@ const Index = () => {
                 {data.text}
               </Text>
 
-              <Image src="../aubergine.jpg" alt="Logo" style={{ position: "absolute", top: "20px", right: "10px", width: "50px" }} />
+              <Image src="aubergine.jpg" alt="Logo" style={{ position: "absolute", top: "20px", right: "10px", width: "50px" }} />
               <Box position="absolute" bottom="10px" left="10px" display="flex" alignItems="center">
                 <FaHeart color="red" size="30" />
                 {data.smallText && (
